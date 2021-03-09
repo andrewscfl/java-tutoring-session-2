@@ -9,7 +9,7 @@ schoolBus Opening side door...
 schoolBus Opening stop sign...
 
 
-
+----------------------------
 
 Car Name: toyota
 
@@ -20,7 +20,7 @@ toyota Started Breaking...
 toyota Filling up the gas Tank...
 
 
-
+----------------------------
 
 
 Car Name: schoolBus
@@ -32,7 +32,7 @@ schoolBus Started Breaking...
 schoolBus Filling up the gas Tank...
 
 
-
+----------------------------
 
 
 Car Name: Tesla Model X
@@ -44,7 +44,7 @@ Tesla Model X Started Breaking...
 Tesla Model X Plugged into charging station...
 
 
-
+----------------------------
 
 
 Car Name: ford f150
@@ -56,7 +56,7 @@ ford f150 Started Breaking...
 ford f150 Filling up the gas Tank...
 
 
-
+----------------------------
 
 
 Car Name: Tesla Model Y
