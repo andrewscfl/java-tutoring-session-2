@@ -3,38 +3,62 @@ OUTPUT (And explaination)
 --- BEGIN OUTPUT ---
 
 car type specific methods: 
+
 schoolBus Opening side door...
+
 schoolBus Opening stop sign...
 
 
+
 Car Name: toyota
+
 toyota Started Driving...
+
 toyota Started Breaking...
+
 toyota Filling up the gas Tank...
 
 
+
 Car Name: schoolBus
+
 schoolBus Started Driving...
+
 schoolBus Started Breaking...
+
 schoolBus Filling up the gas Tank...
 
 
+
 Car Name: Tesla Model X
+
 Tesla Model X Began self driving...
+
 Tesla Model X Started Breaking...
+
 Tesla Model X Plugged into charging station...
 
 
+
 Car Name: ford f150
+
 ford f150 Started Driving...
+
 ford f150 Started Breaking...
+
 ford f150 Filling up the gas Tank...
 
 
+
 Car Name: Tesla Model Y
+
 Tesla Model Y Began self driving...
+
 Tesla Model Y Started Breaking...
+
 Tesla Model Y Plugged into charging station...
+
+
 
 --- END OUTPUT ---
 
