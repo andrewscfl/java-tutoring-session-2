@@ -10,6 +10,7 @@ schoolBus Opening stop sign...
 
 
 
+
 Car Name: toyota
 
 toyota Started Driving...
@@ -17,6 +18,8 @@ toyota Started Driving...
 toyota Started Breaking...
 
 toyota Filling up the gas Tank...
+
+
 
 
 
@@ -30,6 +33,8 @@ schoolBus Filling up the gas Tank...
 
 
 
+
+
 Car Name: Tesla Model X
 
 Tesla Model X Began self driving...
@@ -37,6 +42,8 @@ Tesla Model X Began self driving...
 Tesla Model X Started Breaking...
 
 Tesla Model X Plugged into charging station...
+
+
 
 
 
@@ -50,6 +57,8 @@ ford f150 Filling up the gas Tank...
 
 
 
+
+
 Car Name: Tesla Model Y
 
 Tesla Model Y Began self driving...
@@ -57,6 +66,8 @@ Tesla Model Y Began self driving...
 Tesla Model Y Started Breaking...
 
 Tesla Model Y Plugged into charging station...
+
+
 
 
 
